@@ -1,0 +1,26 @@
+.header {
+  background-color: #141414;
+  height: 10vh;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.logo_heading {
+  display: flex;
+  flex-direction: row;
+}
+.logo_heading > h1 {
+  color: white;
+  margin-top: 9px;
+  font-size: 8vh;
+}
+
+.logo {
+  margin-top: 10px;
+  margin-right: 50px;
+  height: 8vh;
+  width: 10vh;
+  border-radius: 10%;
+}
